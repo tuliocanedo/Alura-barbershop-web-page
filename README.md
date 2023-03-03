@@ -37,8 +37,8 @@ I'm able to:
 
 ### Links
 
-- [Repository UNES University](https://github.com/tuliocanedo/Alura-barbershop-web-page)
-- [Deploy UNES University](https://alura-barbershop-web-page-ets8cpxz4-tuliocanedo.vercel.app/)
+- [Repository Alura Barbershop Web Page](https://github.com/tuliocanedo/Alura-barbershop-web-page)
+- [Deploy Alura Barbershop Web Page](https://alura-barbershop-web-page-ets8cpxz4-tuliocanedo.vercel.app/)
 
 ## My process
 
